@@ -24,13 +24,13 @@ console.log(arr2);
 console.log(arr2.length);
 
 // //shift unshift
-
-// arr2.unshift("A");
-// console.log(arr2);
-// console.log(arr.length);
-// arr2.shift();
-// console.log(arr2);
-// console.log(arr2.shift());
+const arr3 = new Array(10, 11, null, false, 5, 6, 7);
+arr3.unshift("A");
+console.log(arr3);
+console.log(arr.length);
+arr3.shift();
+console.log(arr3);
+console.log(arr3.shift());
 
 // let arr = [1, 2, 3, 4]
 // arr.reverse();
