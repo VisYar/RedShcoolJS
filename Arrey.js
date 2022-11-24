@@ -1,19 +1,19 @@
-// let arrey = [];
-// const arrey1 = [1, 2, 3];
-// console.log(arrey1);
-// console.log(arrey1.length);
-// const arr = new Array(10, null, false, 5, 6, 7);
-// console.log(arr);
-// console.log(arr.length);
-// arr.length = 3
-// console.log(arr.length);
-// console.log(arr);
-// arr.length = 0;
-// console.log(arr);
-// const arr2 = new Array(10, 11, null, false, 5, 6, 7);
-// console.log(arr2[1]);
-// console.log(arr2[arr2.length - 1]);
-// console.log(arr2.at(-1));
+let arrey = [];
+const arrey1 = [1, 2, 3];
+console.log(arrey1);
+console.log(arrey1.length);
+const arr = new Array(10, null, false, 5, 6, 7);
+console.log(arr);
+console.log(arr.length);
+arr.length = 3
+console.log(arr.length);
+console.log(arr);
+arr.length = 0;
+console.log(arr);
+const arr2 = new Array(10, 11, null, false, 5, 6, 7);
+console.log(arr2[1]);
+console.log(arr2[arr2.length - 1]);
+console.log(arr2.at(-1));
 
 // //pop push
 // arr2.push('string', 100, 'dfghr')
@@ -154,6 +154,6 @@
 
 // console.log([...Array(11).keys()]);
 
-const arr = Array.of(1, 15, -2, NaN, 'Anna', true);
-console.log(arr);
-console.log(Array.isArray(arr));
+// const arr = Array.of(1, 15, -2, NaN, 'Anna', true);
+// console.log(arr);
+// console.log(Array.isArray(arr));
