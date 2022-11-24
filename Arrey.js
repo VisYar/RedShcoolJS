@@ -15,13 +15,13 @@ console.log(arr2[1]);
 console.log(arr2[arr2.length - 1]);
 console.log(arr2.at(-1));
 
-// //pop push
-// arr2.push('string', 100, 'dfghr')
-// console.log(arr2);
-// console.log(arr2.length);
-// arr2.pop();
-// console.log(arr2);
-// console.log(arr2.length);
+//pop push
+arr2.push('string', 100, 'dfghr')
+console.log(arr2);
+console.log(arr2.length);
+arr2.pop();
+console.log(arr2);
+console.log(arr2.length);
 
 // //shift unshift
 
